@@ -1,8 +1,8 @@
-## Getting Started
+## How to execute this program.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Follow the next steps to execute the program.
 
-## Folder Structure
+1. 
 
 The workspace contains two folders by default, where:
 
