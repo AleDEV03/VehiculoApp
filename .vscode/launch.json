@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "VehiculoApp",
+            "request": "launch",
+            "mainClass": "VehiculoApp",
+            "projectName": "VehiculoApp_ed3d0d34"
+        },
+        {
+            "type": "java",
+            "name": "VehiculoApp",
+            "request": "launch",
+            "mainClass": "VehiculoApp",
+            "projectName": "VehiculoApp_db04c400"
+        },
+        {
+            "type": "java",
+            "name": "Launch VehiculoApp",
+            "request": "launch",
+            "mainClass": "VehiculoApp",
+            "projectName": "VehiculoApp"
+        }
+    ]
+}
